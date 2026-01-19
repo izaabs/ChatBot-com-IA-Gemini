@@ -41,8 +41,7 @@ No código, você encontrará:
 chave_api = "SUA_CHAVE_AQUI"
 ```
 
-⚠️ Importante: Nunca deixe sua chave visível em projetos reais!
-O ideal é usar variáveis de ambiente para proteger sua credencial.
+➡️ Substitua "SUA_CHAVE_AQUI" pela sua chave real da API para que o projeto funcione corretamente.
 
 ## 🧠 Como o projeto funciona
 
